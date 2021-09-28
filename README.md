@@ -62,3 +62,5 @@ Following that :
 Open /src/lib/Dashboard.js. The line 12 is commented ( // ). Just remove those two slashes ( "/" ). and run your bot.
 Example :  // this.start();  to this.start();
 ```
+  
+
