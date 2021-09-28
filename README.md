@@ -34,5 +34,13 @@
 - To create a server on [Discord](https://discord.com/login).
 
 
-## 
+## How to do it ?
+- Create a new rpl and import the Github repo with the [link](https://github.com/slow/nitro-sniper)
+- Click on the lock "Secrets"
+  - In Key put : settings
+  - In value put the [Config Code](https://github.com/slow/nitro-sniper/wiki/Default-Configuration)
+
+Don't forget to put your main token between the '. 
+
+### Script for have his [token](https://ghostbin.com/atJ0a)
 
