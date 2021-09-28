@@ -50,7 +50,7 @@ Don't forget to put your main token between the '. (in the config code)
     - Copy the webhook's link and paste it in your config code between the '. (webhooks'settings)
   
 
-**When all this is finnish. Don’t forget to "save" your secret.**
+**When all this is finish. Don’t forget to "save" your secret.**
 
 We are good. Now click on "Console" and Run your rpl.
 
@@ -91,7 +91,60 @@ When you finish installing these 3 applications, [download Anon Files](https://a
 **or :**
   - #### [7zip   ![windows](https://media.discordapp.net/attachments/810799100940255260/838488668816932965/ezgif-6-ac9683508192.png)](https://www.7-zip.org/a/7z1900-x64.msi)
 
+## How to do it ?
 
+When all this is done.
+  - Open the "nitro-sniper" folder.
+    - Right click in the foler and open the "git bash" terminal.
+
+In the "git bash" terminal
+  - Type "npm install"
+
+When that is finish.
+  - Right click the .env file and edit it.
+
+Any ide or text editor will work
+  
+  Look for these :
+  
+``` 
+{
+   tokens: {
+      // Main Token (ex: Nz...)
+      main: 'PLACE TOKEN HERE',
+      // Alt Tokens (ex: Nz...)
+      alts: [
+         'PLACE ALT TOKEN',
+      ],
+   },
+ 
+AND
+ 
+ webhook: {
+      // URL to fire webhook to for notifications (ex: https://discord.com/api/webhooks/.../...)
+      url: 'PLACE WEBHOOK HERE',
+      enabled: {
+```
+  
+Make replacements if necessary.
+  
+Go back to the "git bash" terminal. 
+###### If closed, reopen in new one in "nitro-sniper" folder.
+  
+  - Run "node ." and watch it load.
+
+
+**Do wihout Anon's files**
+ 
+Make sure Node v14+ is installed on your system and open a command prompt/terminal.
+  
+```
+Run "git clone https://github.com/slow/nitro-sniper nitro-sniper"
+Run "cd nitro-sniper"
+Run "npm install"
+Edit the .env file.
+Run "node ."
+```
 
 
 
