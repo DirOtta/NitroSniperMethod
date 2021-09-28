@@ -29,7 +29,10 @@
     
   
     
- ## What do I need for the nitro sniper ?
+## What do I need for the nitro sniper ?
 - A replit account : [Sign Up](https://replit.com/signup?from=landing) or [Log In](https://replit.com/login).
 - To create a server on [Discord](https://discord.com/login).
+
+
+## 
 
