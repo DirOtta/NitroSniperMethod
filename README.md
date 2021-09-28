@@ -44,3 +44,10 @@ Don't forget to put your main token between the '. (in the config code)
 
 ###### Command for have the console : CTRL + SHIFT + I. 
 ###### Script for have his [token](https://ghostbin.com/atJ0a)
+
+- Create a server on Discord. 
+  - Create a webhook
+    - Copy the webhook's link and paste it in your config code between the '. (webhooks'settings)
+  
+
+**When all this is finnish. Don’t forget to "save" your secret.**
