@@ -12,3 +12,13 @@
 ---
   
 ###### Found the Offical method [here](https://github.com/slow/nitro-sniper)
+
+---
+  
+
+## Features 
+  
+- [x] Nitro, Giveaway & Invite Sniper
+- [x] Customizable Webhook (Giveaways, Nitro, Invites) with customizable events (Invalid Code, Redeemeed Code, Joined Server)
+- [x] Customizable Webhook mentions for fired events (pings @everyone, recommended to run in a private server)
+
