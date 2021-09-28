@@ -55,7 +55,8 @@ Don't forget to put your main token between the '. (in the config code)
 We are good. Now click on "Console" and Run your rpl.
 
 If you dont have the message : "You're bot is alive"
-  Following that : 
+
+Following that : 
   
 ```
 Open /src/lib/Dashboard.js. The line 12 is commented ( // ). Just remove those two slashes ( "/" ). and run your bot.
