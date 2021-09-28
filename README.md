@@ -150,5 +150,11 @@ Run "node ."
 - You can support **Anon**. He is the author of the [Locally Sniper](https://pastebin.com/J4tuffyE).
 - You can suppport [**LAW**](https://lawyt.sellix.io/). He is the author of [the video](https://youtu.be/D64WcTLpzes) about the Nitro-Sniper. 
    - Found **Anon and LAW** [here](https://discord.com/invite/gmtqE4ScJB).
+     
+---
+  
+## Still need help, or just want to chat ?
+  
+[Contact](https://github.com/DirOtta) me or join [LAW's Discord](https://discord.com/invite/gmtqE4ScJB) server.
 
 
