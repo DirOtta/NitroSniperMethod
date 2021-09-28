@@ -12,6 +12,7 @@
 ---
   
 ###### Found the Offical method [here](https://github.com/slow/nitro-sniper)
+###### Found Anon'smethod [here](https://pastebin.com/J4tuffyE)
 
 ---
   
