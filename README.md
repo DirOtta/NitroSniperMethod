@@ -10,3 +10,5 @@
   
  
 ---
+  
+###### Found the Offical method [here](https://github.com/slow/nitro-sniper)
