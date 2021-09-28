@@ -40,7 +40,7 @@
   - In Key put : settings
   - In value put the [Config Code](https://github.com/slow/nitro-sniper/wiki/Default-Configuration)
 
-Don't forget to put your main token between the '. 
+Don't forget to put your main token between the '. (in the config code)
 
-### Script for have his [token](https://ghostbin.com/atJ0a)
-
+###### Command for have the console : CTRL + SHIFT + I. 
+###### Script for have his [token](https://ghostbin.com/atJ0a)
