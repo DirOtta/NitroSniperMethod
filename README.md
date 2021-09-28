@@ -11,12 +11,8 @@
  
 ---
   
-###### Found the Offical method [here](https://github.com/slow/nitro-sniper)
-###### Found Anon's method [here](https://pastebin.com/J4tuffyE)
-
----
   
-
+  
 ## Features 
   
 - [x] Nitro, Giveaway & Invite Sniper
