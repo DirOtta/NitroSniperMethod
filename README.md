@@ -56,5 +56,8 @@ We are good. Now click on "Console" and Run your rpl.
 
 If you dont have the message : "You're bot is alive"
   Following that : 
-```open /src/lib/Dashboard.js. The line 12 is commented ( // ). Just remove those two slashes ( "/" ). and run your bot.
-Example :  // this.start();  to this.start();```
+  
+```
+Open /src/lib/Dashboard.js. The line 12 is commented ( // ). Just remove those two slashes ( "/" ). and run your bot.
+Example :  // this.start();  to this.start();
+```
