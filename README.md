@@ -23,4 +23,13 @@
 - [x] Customizable Webhook (Giveaways, Nitro, Invites) with customizable events (Invalid Code, Redeemeed Code, Joined Server)
 - [x] Customizable Webhook mentions for fired events (pings @everyone, recommended to run in a private server)
 - [x] 3 Modes - `main`, `alts`, `both`. Each mode describes what accounts will be used when the sniper starts.
+  
+  
+--- 
+    
+  
+    
+ ## What do I need for the nitro sniper ?
+- A replit account : [Sign Up](https://replit.com/signup?from=landing) or [Log In](https://replit.com/login) 
+- To create a server on [Discord](https://discord.com/login)
 
