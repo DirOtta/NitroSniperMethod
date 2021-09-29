@@ -141,10 +141,17 @@ Run "npm install"
 Edit the .env file.
 Run "node ."
 ```
+
+---
+  
 ## Tips 
 
-###### Some information to help you get a better nitro with your [Nitro-Sniper](https://github.com/DirOtta/NitroSniperMethod).
+###### Some information to help you have more chance with your [Nitro-Sniper](https://github.com/DirOtta/NitroSniperMethod).
   
+  - Add and Use a lot of alts account.
+  - Use a [Outlook adress](https://signup.live.com/signup?mkt=fr-FR&wreply=https%3a%2f%2foffice.live.com%2fstart%2fOutlook.aspx%3fui%3dfr-FR%26s%3d2%26auth%3d1%26nf%3d1&wa=wsignin1.0&lw=1&id=257526&uaid=09530f5421c94f24b634dab024e51b52&lic=1) for create others discord accounts.
+  - Join many servers, find in [here](https://disboard.org/search). More servers mean more chances. 
+  - Use an [uptimer](https://uptimerobot.com/) for have a [Nitro-Sniper](https://github.com/DirOtta/NitroSniperMethod) 24/7.
   
   
 --- 
@@ -154,7 +161,7 @@ Run "node ."
   - Slow [discord](https://discord.gg/HQ5N7Rcajc).
 - You can support **Anon**. He is the author of the [Locally Sniper](https://pastebin.com/J4tuffyE).
 - You can suppport [**LAW**](https://lawyt.sellix.io/). He is the author of [the video](https://youtu.be/D64WcTLpzes) about the Nitro-Sniper. 
-- You can support **Rarytud**. He helped me in Tips.
+- You can support [**Rarytud**](https://www.youtube.com/channel/UCJ0ArXARtw-dnx3U50BWgjA). He helped me in Tips.
    - Found **Anon, Rarytud and LAW** [here](https://discord.com/invite/gmtqE4ScJB).
      
 ---
