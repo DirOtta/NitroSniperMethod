@@ -141,7 +141,12 @@ Run "npm install"
 Edit the .env file.
 Run "node ."
 ```
+## Tips 
 
+###### Some information to help you get a better nitro with your [Nitro-Sniper](https://github.com/DirOtta/NitroSniperMethod).
+  
+  
+  
 --- 
 
 ## Support them 
@@ -149,7 +154,8 @@ Run "node ."
   - Slow [discord](https://discord.gg/HQ5N7Rcajc).
 - You can support **Anon**. He is the author of the [Locally Sniper](https://pastebin.com/J4tuffyE).
 - You can suppport [**LAW**](https://lawyt.sellix.io/). He is the author of [the video](https://youtu.be/D64WcTLpzes) about the Nitro-Sniper. 
-   - Found **Anon and LAW** [here](https://discord.com/invite/gmtqE4ScJB).
+- You can support **Rarytud**. He helped me in Tips.
+   - Found **Anon, Rarytud and LAW** [here](https://discord.com/invite/gmtqE4ScJB).
      
 ---
   
