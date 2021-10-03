@@ -161,8 +161,7 @@ Run "node ."
   - Slow [discord](https://discord.gg/HQ5N7Rcajc).
 - You can support **Anon**. He is the author of the [Locally Sniper](https://pastebin.com/J4tuffyE).
 - You can suppport [**LAW**](https://lawyt.sellix.io/). He is the author of [the video](https://youtu.be/D64WcTLpzes) about the Nitro-Sniper. 
-- You can support [**Rarytud**](https://www.youtube.com/channel/UCJ0ArXARtw-dnx3U50BWgjA). He helped me in Tips.
-   - Found **Anon, Rarytud and LAW** [here](https://discord.com/invite/gmtqE4ScJB).
+   - Found **Anon and LAW** [here](https://discord.com/invite/gmtqE4ScJB).
      
 ---
   
